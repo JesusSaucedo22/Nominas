@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\programas\Nomina\Nomina.consoleApp\bin\Debug\net8.0\Nomina.consoleApp.exe
+C:\Users\Acer\Desktop\programas\Nomina\Nomina.consoleApp\bin\Debug\net8.0\Nomina.consoleApp.deps.json
+C:\Users\Acer\Desktop\programas\Nomina\Nomina.consoleApp\bin\Debug\net8.0\Nomina.consoleApp.runtimeconfig.json
+C:\Users\Acer\Desktop\programas\Nomina\Nomina.consoleApp\bin\Debug\net8.0\Nomina.consoleApp.dll
+C:\Users\Acer\Desktop\programas\Nomina\Nomina.consoleApp\bin\Debug\net8.0\Nomina.consoleApp.pdb
+C:\Users\Acer\Desktop\programas\Nomina\Nomina.consoleApp\obj\Debug\net8.0\Nomina.consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\programas\Nomina\Nomina.consoleApp\obj\Debug\net8.0\Nomina.consoleApp.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\programas\Nomina\Nomina.consoleApp\obj\Debug\net8.0\Nomina.consoleApp.AssemblyInfo.cs
+C:\Users\Acer\Desktop\programas\Nomina\Nomina.consoleApp\obj\Debug\net8.0\Nomina.consoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\programas\Nomina\Nomina.consoleApp\obj\Debug\net8.0\Nomina.consoleApp.dll
+C:\Users\Acer\Desktop\programas\Nomina\Nomina.consoleApp\obj\Debug\net8.0\refint\Nomina.consoleApp.dll
+C:\Users\Acer\Desktop\programas\Nomina\Nomina.consoleApp\obj\Debug\net8.0\Nomina.consoleApp.pdb
+C:\Users\Acer\Desktop\programas\Nomina\Nomina.consoleApp\obj\Debug\net8.0\Nomina.consoleApp.genruntimeconfig.cache
+C:\Users\Acer\Desktop\programas\Nomina\Nomina.consoleApp\obj\Debug\net8.0\ref\Nomina.consoleApp.dll
